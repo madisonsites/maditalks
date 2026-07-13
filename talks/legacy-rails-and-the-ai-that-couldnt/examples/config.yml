@@ -1,0 +1,25 @@
+# Shared Configuration
+# Every skill reads this file for org-specific values.
+# Swap these for your own setup -- skills reference config keys
+# instead of hardcoding paths, URLs, or credentials.
+
+github:
+  org: your-org
+  repo: your-app
+  username: your-github-handle
+  active_repos:
+    - your-org/your-app
+    - your-org/your-frontend
+
+jira:
+  project_key: BLOG
+  cloud_id: your-cloud-id
+  cloud_url: https://your-org.atlassian.net
+
+user:
+  email: you@example.com
+  name: Your Name
+  initials: yn
+
+repo_path: /Users/you/code/your-app
+branch_prefix: yn
