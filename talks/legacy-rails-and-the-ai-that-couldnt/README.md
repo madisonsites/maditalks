@@ -1,8 +1,16 @@
 # Legacy Rails and the AI That Couldn't
 
-Companion resources for my RubyConf 2026 talk.
-
 **[View the slides (PDF)](slides/legacy-rails-and-the-ai-that-couldnt.pdf)**
+
+## Presented at
+
+**📹 [Watch the RubyConf recording](https://youtu.be/JCPe_7GoxZ8?si=F5E6PR1JLpSi52U1)** — this is the primary version of the talk.
+
+| Event | Date | Video |
+|-------|------|-------|
+| [WNB.rb Meetup](https://youtu.be/BoguIoW3yFM?si=1H2oSa5DU4SSuF2L) | June 30, 2026 | [Watch](https://youtu.be/BoguIoW3yFM?si=1H2oSa5DU4SSuF2L) |
+| [RubyConf 2026](https://youtu.be/JCPe_7GoxZ8?si=F5E6PR1JLpSi52U1) | July 16, 2026 | [Watch](https://youtu.be/JCPe_7GoxZ8?si=F5E6PR1JLpSi52U1) |
+| [SF Ruby Meetup](https://youtu.be/q0BG_OK6YwE?si=5v76BPgFpe6fTKog&t=3106) | August 25, 2026 | [Watch](https://youtu.be/q0BG_OK6YwE?si=5v76BPgFpe6fTKog&t=3106) |
 
 ## What's this about?
 
@@ -94,16 +102,6 @@ These resources help AI agents write better code, but they don't make the agent 
 - **Skills** use Cursor-style YAML frontmatter (`name`, `description`). If your agent doesn't support frontmatter, the markdown content still works -- the frontmatter is just metadata.
 - **Guidelines** are plain markdown with no agent-specific syntax. They work with any agent that reads context files.
 - **Section Indexes** (the HTML comments at the top of large guideline files) are designed for agents that support `offset`/`limit` file reading. If yours doesn't, the agent just reads the whole file -- it still works, it's just less efficient.
-
-## Presented at
-
-| Event | Date | Video |
-|-------|------|-------|
-| [WNB.rb Meetup](https://youtu.be/BoguIoW3yFM?si=1H2oSa5DU4SSuF2L) | June 30, 2026 | [Watch](https://youtu.be/BoguIoW3yFM?si=1H2oSa5DU4SSuF2L) |
-| [RubyConf 2026](https://youtu.be/JCPe_7GoxZ8?si=F5E6PR1JLpSi52U1) | July 16, 2026 | [Watch](https://youtu.be/JCPe_7GoxZ8?si=F5E6PR1JLpSi52U1) |
-| [SF Ruby Meetup](https://youtu.be/q0BG_OK6YwE?si=5v76BPgFpe6fTKog&t=3106) | August 25, 2026 | [Watch](https://youtu.be/q0BG_OK6YwE?si=5v76BPgFpe6fTKog&t=3106) |
-
-**📹 [Watch the RubyConf recording](https://youtu.be/JCPe_7GoxZ8?si=F5E6PR1JLpSi52U1)** — this is the primary version of the talk.
 
 ## About these resources
 
