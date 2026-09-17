@@ -97,11 +97,13 @@ These resources help AI agents write better code, but they don't make the agent 
 
 ## Presented at
 
-| Event | Date | Location |
-|-------|------|----------|
-| RubyConf 2026 | July 16 | Red Rocks Casino Resort in Las Vegas, NV (Breakout 1 - Red Rock A&D) |
+| Event | Date | Video |
+|-------|------|-------|
+| [WNB.rb Meetup](https://youtu.be/BoguIoW3yFM?si=1H2oSa5DU4SSuF2L) | June 30, 2026 | [Watch](https://youtu.be/BoguIoW3yFM?si=1H2oSa5DU4SSuF2L) |
+| [RubyConf 2026](https://youtu.be/JCPe_7GoxZ8?si=F5E6PR1JLpSi52U1) | July 16, 2026 | [Watch](https://youtu.be/JCPe_7GoxZ8?si=F5E6PR1JLpSi52U1) |
+| [SF Ruby Meetup](https://youtu.be/q0BG_OK6YwE?si=5v76BPgFpe6fTKog&t=3106) | August 25, 2026 | [Watch](https://youtu.be/q0BG_OK6YwE?si=5v76BPgFpe6fTKog&t=3106) |
 
-**Video:** Coming soon.
+**📹 [Watch the RubyConf recording](https://youtu.be/JCPe_7GoxZ8?si=F5E6PR1JLpSi52U1)** — this is the primary version of the talk.
 
 ## About these resources
 
