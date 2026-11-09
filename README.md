@@ -4,9 +4,10 @@ Slides, resources, code, and assorted artifacts from talks by [Madison Sites](ht
 
 ## Talks
 
-| Talk | Event | Slides | Video |
-|------|-------|--------|-------|
-| [Legacy Rails and the AI That Couldn't](talks/legacy-rails-and-the-ai-that-couldnt/) | RubyConf 2026 | [PDF](talks/legacy-rails-and-the-ai-that-couldnt/slides/legacy-rails-and-the-ai-that-couldnt.pdf) | [Watch](https://youtu.be/JCPe_7GoxZ8?si=F5E6PR1JLpSi52U1) |
+| Talk | Event | Slides |
+|------|-------|--------|
+| [Neurodivergent on AI: Help or Hindrance?](talks/neurodivergent-on-ai/) | Rails World 2026 | [PDF](talks/neurodivergent-on-ai/slides/neurodivergent-on-ai.pdf) |
+| [Legacy Rails and the AI That Couldn't](talks/legacy-rails-and-the-ai-that-couldnt/) | RubyConf 2026 | [PDF](talks/legacy-rails-and-the-ai-that-couldnt/slides/legacy-rails-and-the-ai-that-couldnt.pdf) |
 
 ## What's here
 
